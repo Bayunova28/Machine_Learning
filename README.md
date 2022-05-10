@@ -1,2 +1,30 @@
 # Machine Learning
-This repository contains about my machine learning course at my college
+<img src="https://github.com/Bayunova28/Machine_Learning/blob/main/machine-learning-cover.jpg" height="520" width="1000">
+
+## Background
+<p align="justify">Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. It is an important component of the growing field of data science. Through the use of statistical methods, algorithms are trained to make classifications or predictions, uncovering key insights within data mining projects. These insights subsequently drive decision making within applications and businesses, ideally impacting key growth metrics. As big data continues to expand and grow, the market demand for data scientists will increase, requiring them to assist in the identification of the most relevant business questions and subsequently the data to answer them.<p> 
+  
+## Machine Learning Methods
+### Supervised Learning
+<p align="justify">Supervised learning, also known as supervised machine learning, is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately. As input data is fed into the model, it adjusts its weights until the model has been fitted appropriately. This occurs as part of the cross validation process to ensure that the model avoids overfitting or underfitting. Supervised learning helps organizations solve for a variety of real-world problems at scale, such as classifying spam in a separate folder from your inbox. Some methods used in supervised learning include neural networks, naïve bayes, linear regression, logistic regression, random forest, support vector machine (SVM), and more.<p>
+  
+### Unsupervised Learning
+<p align="justify">Unsupervised learning, also known as unsupervised machine learning, uses machine learning algorithms to analyze and cluster unlabeled datasets. These algorithms discover hidden patterns or data groupings without the need for human intervention. Its ability to discover similarities and differences in information make it the ideal solution for exploratory data analysis, cross-selling strategies, customer segmentation, image and pattern recognition. It’s also used to reduce the number of features in a model through the process of dimensionality reduction; principal component analysis (PCA) and singular value decomposition (SVD) are two common approaches for this. Other algorithms used in unsupervised learning include neural networks, k-means clustering, probabilistic clustering methods, and more.<p>  
+  
+### Semi-supervised learning 
+<p align="justify">Semi-supervised learning offers a happy medium between supervised and unsupervised learning. During training, it uses a smaller labeled data set to guide classification and feature extraction from a larger, unlabeled data set. Semi-supervised learning can solve the problem of having not enough labeled data (or not being able to afford to label enough data) to train a supervised learning algorithm.<p>  
+  
+### Reinforcement Learning
+<p align="justify">Reinforcement machine learning is a behavioral machine learning model that is similar to supervised learning, but the algorithm isn’t trained using sample data. This model learns as it goes by using trial and error. A sequence of successful outcomes will be reinforced to develop the best recommendation or policy for a given problem.<p>
+
+## Module
+> My course assignments from Machine Learning  
+- Introduction [[📂](https://github.com/Bayunova28/Machine_Learning/tree/main/Week%20I%20-%20Introduction)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-XJQ_MgLZqVmgKeNg8kFnbJQvYPr7mXv?usp=sharing)
+- Data Preprocessing [[📂](https://github.com/Bayunova28/Machine_Learning/tree/main/Week%20II%20-%20Data%20Preprocessing)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oz6JAmcCzL08f8k4n_Z0ramqJAJOOGTz?usp=sharing)
+- Prediction & Decision Tree Learning [[📂](https://github.com/Bayunova28/Machine_Learning/tree/main/%20Week%20III%20-%20Prediction%20%26%20Decision%20Tree%20Learning)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-m1fnahC42RfAdDRC79Djlji5aF1Y7Lc?usp=sharing)
+- Principal Component Analysis [[📂](https://github.com/Bayunova28/Machine_Learning/tree/main/Week%20IV%20-%20Principal%20Component%20Analysis)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dl_KRMaLU5pWPtumGSfAIzgglLTs_SuP?usp=sharing)
+- Instanced Based Learning & KNN [[📂](https://github.com/Bayunova28/Machine_Learning/tree/main/Week%20V%20-%20Instance%20Based%20Learning%20%26%20KNN)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yXNXpIPdUTuQ_3hGt3-2tQjjZPuLlbNP?usp=sharing)
+- Linear Discriminant Analysis [[📂](https://github.com/Bayunova28/Machine_Learning/tree/main/Week%20VI%20-%20Linear%20Discriminant%20Analysis)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1chczjwtS8InDTmFXeQYVO-__wcJfV5qe?usp=sharing)
+- Deep Learning [[📂](https://github.com/Bayunova28/Machine_Learning/tree/main/Week%20VIII%20-%20Deep%20Learning)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tu0chjEDGYopnWd1lY6EWhIgrwx0X9Sz?usp=sharing)
+- Partition Algorithm [[📂](https://github.com/Bayunova28/Machine_Learning/tree/main/Week%20IX%20-%20Partition%20Algorithm)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qtiTfbGqfWJd-RlVLxDL7j3DffOZuysb?usp=sharing)
+- Hierarchical Algorithm [[📂](https://github.com/Bayunova28/Machine_Learning/tree/main/Week%20X%20-%20Hierarchical%20Algorithm)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B_ZfyJLITR85X-5Q4Sab8X5jeijAmPat?usp=sharing)
